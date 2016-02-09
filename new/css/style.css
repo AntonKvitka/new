@@ -1,0 +1,50 @@
+<STYLE>
+			*{
+		
+				border: 0px solid black;
+		
+			}
+
+			BODY A {
+
+				COLOR: RoyalBlue;
+				FONT-FAMILY: mono;
+				TEXT-DECORATION: underline;
+
+				}
+
+			
+			A:hover{
+					COLOR: #ff0000;
+					}
+
+		
+			.wrapper{
+	
+					background: #c0c0c0;
+					
+					}
+			
+			
+			table{
+			
+				background: #ffffff;
+						
+				}
+		
+			body{
+			
+				margin: 0;
+				
+				}
+				
+				
+			p{
+			
+				}
+		
+			
+			li{
+								
+				}
+	</STYLE>
